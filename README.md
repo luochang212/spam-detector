@@ -6,12 +6,6 @@ Data set: [sms-spam-collection-dataset](https://www.kaggle.com/datasets/uciml/sm
 
 References:
 
+- *Hackers & Painters: Big Ideas from the Computer Age*
 - https://zhuanlan.zhihu.com/p/158964076
 - https://www.kaggle.com/code/scotthosking/simple-spam-dectector
-
-
-
-
-
-
-
